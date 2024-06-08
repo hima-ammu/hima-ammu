@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hima-ammu
+- 👋 Hi, I’m @himaja
 - 👀 I’m interested in Data analyst
 - 🌱 I’m currently creatinng a project.
 - 💞️ I’m looking to collaborate on real world projects.
